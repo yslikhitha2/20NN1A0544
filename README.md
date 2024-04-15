@@ -43,7 +43,7 @@ $ npm start
 
 ## Contributors
 
-- <a href="https://github.com/RajatSablok">Rajat Sablok</a>
+
 
 ## License
 
